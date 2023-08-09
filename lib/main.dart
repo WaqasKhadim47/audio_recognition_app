@@ -78,7 +78,7 @@ class _MyHomePageState extends State<MyHomePage> {
               child: const Text(
                 "What's this sound?",
                 style: TextStyle(
-                  color: Colors.black,
+                  color: Colors.white,
                   fontSize: 60,
                   fontWeight: FontWeight.w200,
                 ),
@@ -94,6 +94,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             Text(
               _sound,
+              textAlign: TextAlign.center,
               style: Theme.of(context).textTheme.headlineLarge,
             ),
           ],

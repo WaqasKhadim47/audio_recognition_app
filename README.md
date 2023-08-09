@@ -1,16 +1,14 @@
 # audio_recognition_app
 
-A new Flutter project.
+A new Flutter project in which you can recognition audio stream by using <b>tflite_audio></b>, Techable Machine and kaggle.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshoots:
+<img src="https://github.com/WaqasKhadim47/audio_recognition_app/blob/main/screenshoots/img1.png" height="400" alt="Screenshot1"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/WaqasKhadim47/audio_recognition_app/blob/main/screenshoots/img2.png" height="400" alt="Screenshot2"/>&nbsp;&nbsp;&nbsp;&nbsp;
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Thank you!
